@@ -15,6 +15,6 @@
 
  🔗 Connect With Me  
 -  Discord : ._arima
--  Instagram : arima_says_  
+-  Instagram : arima_says_ 
 
 
