@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hey, I'm Mihir
 
-<!--
-**Mihir2414/Mihir2414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year BCA Student | 💻 Aspiring Data Scientist | 📍 Pune  
 
-Here are some ideas to get you started:
+ 🌱 About Me  
+- 🔭 Currently learning **Python** (via FreeCodeCamp & Codedex).  
+- 📚 Exploring basics of **programming and problem-solving**.  
+- 🚀 Goal: Become skilled in **Data Analysis & Machine Learning**.  
+- ⚡ Fun fact: I love anime and gaming (Elden Ring 🕹️).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🛠️ Skills & Tools  
+- Languages: Python, C  
+- Tools: VS Code, Jupyter Notebook
+- Interests: Data Analysis, NLP, Neural Networks, Regression
+
+ 🔗 Connect With Me  
+-  Discord : ._arima
+-  Instagram : arima_says_  
+
+
